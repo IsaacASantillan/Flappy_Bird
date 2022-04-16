@@ -1,0 +1,14 @@
+---
+:id: 58419204
+:submitters:
+- :name: Todd Kane-Ross
+  :email: todd.kane-ross@berkeley.edu
+- :name: Isaac Santillan
+  :email: isaacsantillan@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-12-06 07:18:44.390436000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-12-05 23:18:44.390436000 Z
+:status: processed
+:score: 77.0
